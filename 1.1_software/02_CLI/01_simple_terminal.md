@@ -22,7 +22,7 @@ Learn how to check where you are and explore folders.
 6. Go back to your home directory:
    ```bash
    cd ~
-   ```
+   ```hghjghjghjghjgjhgjhgjhf
 
 **Submit a screenshot of every step to the images folder**
 `images/CLI_step1.jpg`
