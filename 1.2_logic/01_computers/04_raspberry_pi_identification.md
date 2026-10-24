@@ -8,14 +8,14 @@ images/raspberry-pi/labelled-pi-board.jpg
 
 | Component | Function |
 |-----------|----------|
-| SoC | |
-| GPIO | |
-| USB | |
-| HDMI | |
-| Power | |
-| microSD | |
-| Network | |
-| Wireless | |
+| SoC | Contains the CPU and other important components that process instructions and control the system. |
+| GPIO | Allows the Raspberry Pi to connect and communicate with external electronic components, such as sensors, LEDs, and motors. |
+| USB | Connects devices such as a keyboard, mouse, and USB storage. |
+| HDMI | Connects the Raspberry Pi to a monitor or TV to display video and audio. |
+| Power | Supplies electrical power to the Raspberry Pi so it can operate. |
+| microSD | Stores the operating system, programs, and other files. |
+| Network | Provides a wired network connection through an Ethernet port, if available on the model. |
+| Wireless | Allows wireless connections through Wi-Fi and Bluetooth, if supported by the model. |
 
 ---
 ## Reflection
